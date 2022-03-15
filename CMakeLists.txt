@@ -46,7 +46,7 @@ endif()
 
 # ==========================================================================
 # Add compile feature set
-target_compile_features(cppfeaturecheck PUBLIC cxx_std_23)
+target_compile_features(cppfeaturecheck PUBLIC cxx_std_20)
 
 
 # Main compiler options
